@@ -6,7 +6,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TProjectDashbord.Server", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TProjectDashbord.Client", "Client\TProjectDashbord.Client.csproj", "{70F8EF65-01CD-4323-AC45-378C066505AF}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorWebAssemblySignalRApp.Shared", "Shared\BlazorWebAssemblySignalRApp.Shared.csproj", "{426C2393-4A79-4D5D-9235-4EFFAF49035F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TProjectDashbord.Shared", "Shared\TProjectDashbord.Shared.csproj", "{426C2393-4A79-4D5D-9235-4EFFAF49035F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Shared\BlazorWebAssemblySignalRApp.Shared.csproj" />
+    <ProjectReference Include="..\Shared\TProjectDashbord.Shared.csproj" />
   </ItemGroup>
 
 </Project>

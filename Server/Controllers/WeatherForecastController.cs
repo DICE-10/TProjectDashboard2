@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
-using BlazorWebAssemblySignalRApp.Shared;
+using TProjectDashbord.Shared;
 
-namespace BlazorWebAssemblySignalRApp.Server.Controllers;
+namespace TProjectDashbord.Server.Controllers;
 
 [ApiController]
 [Route("[controller]")]

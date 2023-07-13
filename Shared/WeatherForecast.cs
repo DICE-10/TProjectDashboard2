@@ -1,4 +1,4 @@
-namespace BlazorWebAssemblySignalRApp.Shared;
+namespace TProjectDashbord.Shared;
 
 public class WeatherForecast
 {
